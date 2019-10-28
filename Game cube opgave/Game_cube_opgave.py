@@ -1,3 +1,3 @@
 
 
-print( "hej chef jeg kan ikke komme på arbejde idag...")
+print( "hej chef jeg kan ikke komme på arbejde idag.....")
